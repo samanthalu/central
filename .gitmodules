@@ -1,3 +1,8 @@
 [submodule "server"]
 	path = server
-	url = https://github.com/getodk/central-backend.git
+	url = https://github.com/samanthalu/central-backend.git
+	branch = plus
+[submodule "client"]
+	path = client
+	url = https://github.com/samanthalu/central-frontend.git
+	branch = plus
